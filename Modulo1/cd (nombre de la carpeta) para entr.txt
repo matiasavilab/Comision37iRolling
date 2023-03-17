@@ -1,2 +1,0 @@
-cd "(nombre de la carpeta)" para entrar a la carpeta 
-cd.. para volver a lacarpeta qie  contiene la carpetavinculada a hithub
